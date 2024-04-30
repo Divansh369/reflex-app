@@ -1,0 +1,2 @@
+cd to any directory
+reflex run
